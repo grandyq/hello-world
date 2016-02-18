@@ -1,2 +1,3 @@
 # hello-world
-first repository
+yup. Grandy Q here. 
+Who yo grandy?
